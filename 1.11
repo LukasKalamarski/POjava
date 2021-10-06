@@ -1,0 +1,39 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Nic dwa razy się nie zdarza\n" +
+                "i nie zdarzy. Z tej przyczyny\n" +
+                "zrodziliśmy się bez wprawy\n" +
+                "i pomrzemy bez rutyny.\n" +
+                "Choćbyśmy uczniami byli\n" +
+                "najtępszymi w szkole świata,\n" +
+                "nie będziemy repetować\n" +
+                "żadnej zimy ani lata.\n" +
+                "Żaden dzień się nie powtórzy,\n" +
+                "nie ma dwóch podobnych nocy,\n" +
+                "dwóch tych samych pocałunków,\n" +
+                "dwóch jednakich spojrzeń w oczy.\n" +
+                "\n" +
+                "Wczoraj, kiedy twoje imię\n" +
+                "ktoś wymówił przy mnie głośno,\n" +
+                "tak mi było jakby róża\n" +
+                "przez otwarte wpadła okno.\n" +
+                "Dziś, kiedy jesteśmy razem,\n" +
+                "odwróciłam twarz ku ścianie.\n" +
+                "Róża? Jak wygląda róża?\n" +
+                "Czy to kwiat? A może kamień?\n" +
+                "\n" +
+                "Czemu ty się, zła godzino,\n" +
+                "z niepotrzebnym mieszasz lękiem?\n" +
+                "Jesteś - a więc musisz minąć.\n" +
+                "Miniesz - a więc to jest piękne.\n" +
+                "Uśmiechnięci, współobjęci\n" +
+                "spróbujemy szukać zgody,\n" +
+                "choć różnimy się od siebie\n" +
+                "jak dwie krople czystej wody.");
+
+    }
+}
