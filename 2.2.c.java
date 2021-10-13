@@ -6,7 +6,7 @@ public class Start {
         Scanner temp = new Scanner(System.in);
         int n = temp.nextInt();
         for (int i = 1; i < n; i++) {
-            if(sqrt(n) % 1 == 0)
+            if(sqrt(i) % 1 == 0)
             {
                 System.out.println(i);
             }
