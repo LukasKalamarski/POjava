@@ -6,8 +6,11 @@ public class Start {
 
     public static int file(char z, String nazwa) throws IOException {
         File file = new File(nazwa);
-        BufferedReader br = new BufferedReader(new FileReader(file));
-        String st = br.toString();
+        Scanner sc = new Scanner(file);
+        StringBuffer sb = new StringBuffer();
+        while (sc.hasNextLine())
+            sb.append(sc.nextLine());
+        String st = sb.toString();;
         int ile = 0;
         for(int i=0; i<st.length(); i++)
         {
